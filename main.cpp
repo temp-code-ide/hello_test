@@ -19,7 +19,7 @@ int main()
     test();
     hello();
 
-    Person zhangsan;
+    Student zhangsan;
     SexType sexy = zhangsan.sexy;
     std::cout << (int)sexy << std::endl;
     return 0;
