@@ -1,0 +1,12 @@
+[
+    {
+        "directory": "./",
+        "command": "gcc -c ./hello.cpp",
+        "file": "./hello.cpp"
+    },
+    {
+        "directory": "./",
+        "command": "gcc -c ./main.cpp",
+        "file": "./main.cpp"
+    }
+]

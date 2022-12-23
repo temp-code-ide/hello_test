@@ -1,0 +1,97 @@
+{
+  "isIncomplete": false,
+  "items": [
+    {
+      "detail": "void",
+      "filterText": "sayHello",
+      "insertText": "sayHello()",
+      "insertTextFormat": 2,
+      "kind": 3,
+      "label": " sayHello()",
+      "score": 0.9343538880348206,
+      "sortText": "4090ce2fsayHello",
+      "textEdit": {
+        "newText": "sayHello()",
+        "range": {
+          "end": {
+            "character": 7,
+            "line": 20
+          },
+          "start": {
+            "character": 4,
+            "line": 20
+          }
+        }
+      }
+    },
+    {
+      "detail": "void",
+      "filterText": "sayGoodbye",
+      "insertText": "sayGoodbye()",
+      "insertTextFormat": 2,
+      "kind": 3,
+      "label": " sayGoodbye()",
+      "score": 0.5933540463447571,
+      "sortText": "40e819f3sayGoodbye",
+      "textEdit": {
+        "newText": "sayGoodbye()",
+        "range": {
+          "end": {
+            "character": 7,
+            "line": 20
+          },
+          "start": {
+            "character": 4,
+            "line": 20
+          }
+        }
+      }
+    },
+    {
+      "detail": "void",
+      "filterText": "sayHi",
+      "insertText": "sayHi()",
+      "insertTextFormat": 2,
+      "kind": 3,
+      "label": " sayHi()",
+      "score": 0.5933540463447571,
+      "sortText": "40e819f3sayHi",
+      "textEdit": {
+        "newText": "sayHi()",
+        "range": {
+          "end": {
+            "character": 7,
+            "line": 20
+          },
+          "start": {
+            "character": 4,
+            "line": 20
+          }
+        }
+      }
+    },
+    {
+      "detail": "void",
+      "filterText": "saySeeYou",
+      "insertText": "saySeeYou()",
+      "insertTextFormat": 2,
+      "kind": 3,
+      "label": " saySeeYou()",
+      "score": 0.5933540463447571,
+      "sortText": "40e819f3saySeeYou",
+      "textEdit": {
+        "newText": "saySeeYou()",
+        "range": {
+          "end": {
+            "character": 7,
+            "line": 20
+          },
+          "start": {
+            "character": 4,
+            "line": 20
+          }
+        }
+      }
+    }
+  ]
+}
